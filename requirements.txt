@@ -1,0 +1,7 @@
+flask
+python-dotenv
+gunicorn
+hvac
+requests
+py-algorand-sdk
+pynacl
